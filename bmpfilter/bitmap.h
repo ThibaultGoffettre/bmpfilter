@@ -1,11 +1,11 @@
 #ifndef LIMITS_H
 #if defined __APPLE__
 #include <limits.h>
-/*#else
+#else
 #include <linux/limits.h>
 #endif
 #define LIMITS_H
-#endif*/
+#endif
 
 typedef struct _pixel
 {

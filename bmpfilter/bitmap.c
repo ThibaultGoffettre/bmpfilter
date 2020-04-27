@@ -255,7 +255,7 @@ PIXEL *getPixel(PIXEL *raster, int width, int height, int y, int x)
  */
 void setPixel(PIXEL *raster, int width, int height, int y, int x, PIXEL *value)
 {
-    /* TODO */
+    /* Code faux */
 }
 
 /*

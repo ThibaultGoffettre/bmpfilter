@@ -246,7 +246,7 @@ void destroyBitmap(BITMAP *bmp)
  */
 PIXEL *getPixel(PIXEL *raster, int width, int height, int y, int x)
 {
-    /* TODO */
+    /* Fonction bonne */
 }
 
 /*
